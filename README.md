@@ -31,4 +31,4 @@ This project demonstrates a supervised learning workflow to predict flight delay
    pip install -r requirements.txt
 2. Run the script:
    ```bash
-   python flight_delay.py
+   python flight_delay_prediction.py
